@@ -1,0 +1,15 @@
+[submodule "uióu"]
+	path = uióu
+	url = git@github.com:HnJoel/uiou.git
+[submodule "uniquè"]
+	path = uniquè
+	url = git@github.com:HnJoel/unique.git
+[submodule "shëva"]
+	path = shëva
+	url = git@github.com:HnJoel/sheva.git
+[submodule "wòrd"]
+	path = wòrd
+	url = git@github.com:HnJoel/word.git
+[submodule "ñtøt"]
+	path = ñtøt
+	url = git@github.com:HnJoel/ntot.git
